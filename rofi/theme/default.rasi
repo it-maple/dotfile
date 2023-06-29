@@ -1,0 +1,36 @@
+/* @theme "Monokai" */
+@theme "Arc-Dark"
+
+
+* {
+    /* background:  rgba(0,0,0,0); */
+    /* width: 700; */
+}
+
+window {
+    width: 500;
+}
+
+#window.box {
+    background: #cc1c1c1c;
+}
+
+entry {
+    placeholder: "Type here";
+    cursor: pointer;
+    spacing: 5px;
+}
+
+element-icon {
+    size: 2.5em;
+}
+
+element-text {
+    vertical-align: 0.5;
+    margin:                         0.5% 1% 0% 1%;
+}
+
+listview {
+    columns: 1;
+    lines: 10;
+}
